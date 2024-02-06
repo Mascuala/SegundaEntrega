@@ -161,3 +161,6 @@ h1, h2, h3 {
     80% { transform: translateX(-400%); }
     100% { transform: translateX(-400%); }
 }
+#.animate__animated.animate__shakeY {
+    --animate-duration: 2s;
+}    
